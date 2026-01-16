@@ -1,3 +1,4 @@
+
 #!/bin/bash
 # Update and install Apache
 yum update -y
