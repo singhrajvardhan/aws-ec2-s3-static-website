@@ -15,3 +15,4 @@ echo "<html><body><h1>Welcome</h1><img src='$S3_IMAGE' style='max-width:100%;'><
 # Start Apache
 systemctl start httpd
 systemctl enable httpd
+
